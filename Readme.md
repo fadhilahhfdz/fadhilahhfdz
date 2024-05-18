@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fadhilah Hafidz Pradana</h1>
+<h1 align="center">Hello👋, I'm Fadhilah Hafidz Pradana</h1>
 <h3 align="center">I am an Informatics Engineering student at Amikom University Yogyakarta. I have a high interest in the world of technology, especially in programming. I am interested becoming a Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhilahhfdz&label=Profile%20views&color=0e75b6&style=flat" alt="fadhilahhfdz" /> </p>
