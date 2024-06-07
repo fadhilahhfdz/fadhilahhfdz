@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Framework Laravel**
 
-- 👨‍💻 All of my projects are available at [https://fadhilahhfdz.github.io/first-portfolio/](https://fadhilahhfdz.github.io/first-portfolio/)
+- 👨‍💻 All of my projects are available at [http://fadhilahhafidz.my.id](http://fadhilahhafidz.my.id)
 
 - 📫 How to reach me **fadhilahhafidz010@gmail.com**
 
