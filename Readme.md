@@ -1,5 +1,4 @@
-# 💫 About Me:
-<h1>Hello👋, I'm Fadhilah Hafidz Pradana</h1>
+# 💫 About Me: <h1>Hello👋, I'm Fadhilah Hafidz Pradana</h1>
 I am an Informatics Engineering student at Amikom University Yogyakarta. I have a high interest in the world of technology, especially in programming. I am interested becoming a Backend Developer.
 
 
